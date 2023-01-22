@@ -8,7 +8,7 @@
     <li><a href="https://www.linkedin.com/in/duncan-guijo-fern%C3%A1ndez-7601a015a/" target="_blank">Linkedin</a></li>
 </ul>
 
-<h4 align="center">Habilidades y herramientas</h4>
+<h3>Habilidades y herramientas</h3>
 <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" alt="html"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"width="40" height="40" alt="css" />
