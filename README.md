@@ -10,7 +10,7 @@
 <br>
 <h3 align="center">Habilidades y herramientas</h3><br>
 <div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" alt="html"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" padding="5" alt="html"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"width="40" height="40" alt="css" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
