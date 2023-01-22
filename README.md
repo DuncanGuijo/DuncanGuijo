@@ -1,4 +1,4 @@
-<h1 align="center">¡Ei!<g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>¿Que tal?</h1>
+<h1 align="center">¡Ei!<g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>¿Que tal?</h1><br>
 <h3 align="center">¡Bienvenidos a mi perfil de Github!Mi nombre es Duncan, soy un programador web afincado en Barcelona centrado en el mundo del BackEnd.</h3>
 
 <ul>
@@ -7,8 +7,8 @@
     <li>Puedes contactar conmigo en: duncan.guijo.fernandez@gmail.com</li>
     <li><a href="https://www.linkedin.com/in/duncan-guijo-fern%C3%A1ndez-7601a015a/" target="_blank">Linkedin</a></li>
 </ul>
-<br><br>
-<h3 align="center">Habilidades y herramientas</h3>
+<br>
+<h3 align="center">Habilidades y herramientas</h3><br>
 <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" alt="html"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"width="40" height="40" alt="css" />
