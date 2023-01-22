@@ -23,4 +23,3 @@
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuncanGuijo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
-![DuncanGuijo GitHub stats](https://github-readme-stats.vercel.app/api?username=DuncanGuijo&show_icons=true&theme=radical)
