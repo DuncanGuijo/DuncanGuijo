@@ -22,5 +22,7 @@
 
 ---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DuncanGuijjo&theme=blood&hide_border=true&border_radius=2.7&locale=es&mode=weekly)](https://git.io/streak-stats)
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuncanGuijo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 ![DuncanGuijo GitHub stats](https://github-readme-stats.vercel.app/api?username=DuncanGuijo&show_icons=true&theme=radical)
