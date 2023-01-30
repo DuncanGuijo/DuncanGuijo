@@ -1,5 +1,5 @@
 <h1 align="center">¡Ei!<g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>¿Que tal?</h1><br>
-<h3 align="center">¡Bienvenidos a mi perfil de Github!Mi nombre es Duncan, soy un programador web afincado en Barcelona centrado en el mundo del BackEnd.</h3>
+<h3 align="center">¡Bienvenidos a mi perfil de Github!Mi nombre es Duncan, soy un programador web afincado en Barcelona.</h3>
 
 <ul>
     <li>Tengo conocimientos en PHP, Mysqli y JavaScript.</li>
