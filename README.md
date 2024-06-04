@@ -2,8 +2,7 @@
 <h3 align="center">¡Bienvenidos a mi perfil de Github!Mi nombre es Duncan, soy un programador web afincado en Barcelona.</h3>
 
 <ul>
-    <li>Tengo conocimientos en PHP, Mysqli y JavaScript.</li>
-    <li>Actualmente estoy aprendiendo Python, Laravel y Solidity.</li>
+    <li>Tengo conocimientos en Javascript, PHP y Python.</li>
     <li>Puedes contactar conmigo en: duncan.guijo.fernandez@gmail.com</li>
     <li><a href="https://www.linkedin.com/in/duncan-guijo-fern%C3%A1ndez-7601a015a/" target="_blank">Linkedin</a></li>
 </ul>
