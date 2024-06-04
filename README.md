@@ -9,15 +9,12 @@
 <br>
 <h3 align="center">Habilidades y herramientas</h3><br>
 <div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" padding="5" alt="html"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"width="40" height="40" alt="css" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40" padding="5" alt="html"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line-wordmark.svg" width="40" height="40" alt="css" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" width="40" height="40" alt="solidity" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" width="40" height="40" alt="premiere" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" width="40" height="40" alt="jira" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" width="40" height="40" alt="woocommerce" />
 </div>
 
 ---
